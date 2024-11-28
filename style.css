@@ -1,0 +1,52 @@
+.menu_bar{
+
+    background-color: rgb(233, 186, 68);
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+.logo{
+color: rgb(0, 0, 0);
+font-size: 35px;
+
+}
+.logo span{
+
+    color: rgb(255, 255, 255);
+}
+.menu_bar ul {
+    list-style: none;
+    display: flex;
+}
+.menu_bar ul li {
+    padding: 10px 30px;
+    
+}
+.menu_bar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.about {
+    color: black;
+    font-size: 60px;
+}
+.about span{
+    font-family: Copperplate, Papyrus, fantasy;
+    background-color:  rgb(233, 186, 68);
+    color: white;
+}
+.about_us{
+
+    width: 100%
+}
+.Read_more{
+    font-family: Copperplate, Papyrus, fantasy;
+    background-color: rgb(233, 186, 68);
+    color: black;
+    font-size: 35px;
+    margin-right: 0  200px;
+}
